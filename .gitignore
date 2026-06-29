@@ -1,0 +1,6 @@
+__pycache__/
+*.py[cod]
+.streamlit/secrets.toml
+streamlit*.log
+.DS_Store
+Thumbs.db
