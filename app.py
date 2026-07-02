@@ -12,7 +12,7 @@ import plotly.graph_objects as go
 import streamlit as st
 
 
-APP_TITLE = "唐智科技湖南发展 | 诊断数据分析数据挖掘展示"
+APP_TITLE = "诊断数据分析数据挖掘展示"
 DATA_PATH = Path("price_input_foreign.csv")
 GITHUB_URL = os.getenv(
     "PROJECT_GITHUB_URL",
